@@ -9,4 +9,4 @@ Creative coding tools and philosophies
 Programming Computers, The browser and javascript, setting up an IDE, Git and GitHub
 
 ## Assignment
-Assignment 1: Setting up your environment (Due Sep 10)
+Assignment 1: Setting up your environment (Due Sep 10). And also submitting an example of a Creative Coding Project/repo here.
