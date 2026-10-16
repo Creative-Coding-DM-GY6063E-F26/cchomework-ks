@@ -14,6 +14,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
 
   // create mapper object
+
   pMapper = createProjectionMapper(this);
   //pMapper.load("map.json");
 
