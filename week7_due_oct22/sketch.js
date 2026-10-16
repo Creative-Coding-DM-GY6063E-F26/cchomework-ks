@@ -15,7 +15,7 @@ function setup() {
 
   // create mapper object
 
-  pMapper = createProjectionMapper(this);
+  //pMapper = createProjectionMapper(this);
   //pMapper.load("map.json");
 
   // create "quads" for each surface of your projection
